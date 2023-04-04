@@ -11,5 +11,7 @@
     "ecmascript"
   ],
   "author": "Ernesto Lechuga <bcierya2023@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
+
 }
